@@ -1,4 +1,4 @@
-# React Todo App
+# React Note App
 Note app built with react routers and Tailwind CSS
 
 Check out the live demo hosted on Netlify [https://reactjs-notesapp.netlify.app/]
